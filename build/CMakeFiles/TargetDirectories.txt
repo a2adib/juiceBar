@@ -1,0 +1,3 @@
+/Users/a2adib/workStation/openGL_projects/juiceBar/build/CMakeFiles/OpenGLTest.dir
+/Users/a2adib/workStation/openGL_projects/juiceBar/build/CMakeFiles/edit_cache.dir
+/Users/a2adib/workStation/openGL_projects/juiceBar/build/CMakeFiles/rebuild_cache.dir
